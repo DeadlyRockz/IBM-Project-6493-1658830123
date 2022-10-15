@@ -16,7 +16,9 @@ Due to the proliferation of information in daily life, data is being produced at
 |Assignment 2 | completed|
 |Assignment 3 | completed|
 
-## Ideation phase
+## PROJECT DESIGN & PLANNING
+
+### Ideation phase
 Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
 
 |Ideation Phase|Status|
@@ -29,8 +31,12 @@ Ideation is the process where you generate ideas and solutions through sessions 
 ##  Design phase
 In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
 
-|Design phase|Status|
+### Project design phase 01
+
+|Design phase 01|Status|
 |-|-|
 |Proposed Solution | completed|
 |Problem-Solution Fit | completed|
 |Solution Architecture | completed|
+
+### Project design phase 02
