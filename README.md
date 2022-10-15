@@ -5,7 +5,7 @@
 
 ## Team Details
 
-- Team Leader__: NANDA KUMAR B
+- Team Leader___: NANDA KUMAR B
 - Team Member 1: OM PRASATH M
 - Team Member 2: PAUL ALLAN T
 - Team Member 3: NARESHKUMAR C
