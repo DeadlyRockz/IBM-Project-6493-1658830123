@@ -41,7 +41,7 @@ In the design phase, one or more designs are developed, with which the project r
 
 ### Project design phase 02
 
-|Design phase 01|Status|
+|Design phase 02|Status|
 |-|-|
 |Customer Journey | completed|
 |Functional Requirement | completed|
