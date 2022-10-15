@@ -40,3 +40,10 @@ In the design phase, one or more designs are developed, with which the project r
 |Solution Architecture | completed|
 
 ### Project design phase 02
+
+|Design phase 01|Status|
+|-|-|
+|Customer Journey | completed|
+|Functional Requirement | completed|
+|Data Flow Diagrams | completed|
+|Technology Architecture | completed|
