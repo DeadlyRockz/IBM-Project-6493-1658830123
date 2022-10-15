@@ -1,4 +1,14 @@
 # IBM-Project-6493-1658830123
+- Technology : DATA ANALYTICS
+- Team ID    : PNT2022TMID00819
+- Batch NO   : B4-4M6E
+
+## Team Details
+
+- Team leader: NANDA KUMAR B
+- Team Member 1: OM PRASATH M
+- Team Member 2: PAUL ALLAN T
+- Team Member 3: NARESHKUMAR C
 
 ## Global Sales Data Analytics
 
