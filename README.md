@@ -12,3 +12,4 @@ Due to the proliferation of information in daily life, data is being produced at
 |-|-|
 |Assignment 1 | completed|
 |Assignment 2 | completed|
+|Assignment 3 | completed|
