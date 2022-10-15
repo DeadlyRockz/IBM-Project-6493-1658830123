@@ -8,8 +8,29 @@ Due to the proliferation of information in daily life, data is being produced at
 
 ### Status
 
+## Assignments
+
 |Assignment|Status|
 |-|-|
 |Assignment 1 | completed|
 |Assignment 2 | completed|
 |Assignment 3 | completed|
+
+## Ideation phase
+Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+
+|Ideation Phase|Status|
+|-|-|
+|Literature Survey | completed|
+|Problem Statement | completed|
+|Empathy Map | completed|
+|Brainstorm | completed|
+
+##  Design phase
+In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+
+|Design phase|Status|
+|-|-|
+|Proposed Solution | completed|
+|Problem-Solution Fit | completed|
+|Solution Architecture | completed|
