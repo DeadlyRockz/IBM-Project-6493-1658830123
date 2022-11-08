@@ -57,3 +57,12 @@ In the design phase, one or more designs are developed, with which the project r
 |Functional Requirement | completed|
 |Data Flow Diagrams | completed|
 |Technology Architecture | completed|
+
+### Project development
+
+|Design phase 02|Status|
+|-|-|
+|Sprint 1 | completed|
+|Sprint 2 | completed|
+|Sprint 3 | On Going|
+|Sprint 4 | On Going|
