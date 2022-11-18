@@ -64,5 +64,5 @@ In the design phase, one or more designs are developed, with which the project r
 |-|-|
 |Sprint 1 | completed|
 |Sprint 2 | completed|
-|Sprint 3 | On Going|
+|Sprint 3 | completed|
 |Sprint 4 | On Going|
